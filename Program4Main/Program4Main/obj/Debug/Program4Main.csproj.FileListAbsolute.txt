@@ -1,0 +1,7 @@
+D:\Cis199 Labs\Program4Main\Program4Main\bin\Debug\Program4Main.exe.config
+D:\Cis199 Labs\Program4Main\Program4Main\bin\Debug\Program4Main.exe
+D:\Cis199 Labs\Program4Main\Program4Main\bin\Debug\Program4Main.pdb
+D:\Cis199 Labs\Program4Main\Program4Main\obj\Debug\Program4Main.csproj.AssemblyReference.cache
+D:\Cis199 Labs\Program4Main\Program4Main\obj\Debug\Program4Main.csproj.CoreCompileInputs.cache
+D:\Cis199 Labs\Program4Main\Program4Main\obj\Debug\Program4Main.exe
+D:\Cis199 Labs\Program4Main\Program4Main\obj\Debug\Program4Main.pdb
